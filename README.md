@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tipzers](https://user-images.githubusercontent.com/67044481/131170222-b08ce6c3-8f03-4e96-aa1d-8c599253d1f9.gif)
 
 GIF created with [imgur](https://imgur.com/a/ZriolXE.gif).
 
